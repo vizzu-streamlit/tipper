@@ -5,7 +5,7 @@ from ipyvizzu.chart import Chart
 
 from streamlit_vizzu import VizzuChart
 
-data_frame = pd.read_csv("https://raw.githubusercontent.com/vizzu-streamlit/tipper-story/main/tipper.csv")
+data_frame = pd.read_csv("https://raw.githubusercontent.com/vizzu-streamlit/tipper/main/tipper.csv")
 data = Data()
 data.add_data_frame(data_frame)
 
