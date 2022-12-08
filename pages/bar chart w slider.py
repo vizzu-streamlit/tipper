@@ -16,7 +16,7 @@ chart.animate(data)
 vchart = VizzuChart(chart, key="vizzu")
 
 st.set_page_config(
-	page_title="Powerade VB Tippverseny Bar Chart Race",
+	page_title="VB Tippverseny Bar Chart Race",
 	layout="wide",
 )
 
